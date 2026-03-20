@@ -4,7 +4,7 @@
 >
 > This repository mirrors the files from the [FLYDRAGON RC Download Center](https://flydragonrc.com/download) for users who cannot access the official website due to network restrictions.
 >
-> 本仓库镜像了 [飞龙模型官网下载中心](https://flydragonrc.com/download) 的所有文件，方便因网络原因无法访问官网的用户下载。
+> 本仓库镜像了 [FLYDRAGON RC 官网下载中心](https://flydragonrc.com/download) 的所有文件，方便因网络原因无法访问官网的用户下载。
 
 ---
 
