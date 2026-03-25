@@ -18,7 +18,7 @@
 
 | File | Version | Size | Date |
 |------|---------|------|------|
-| [FLYROTOR_ESC_1.5.7_20260308.apk](mobile-app/FLYROTOR_ESC_1.5.7_20260308.apk) | 1.5.7 | 3.3 MB | 2026-03-08 |
+| [FLYROTOR_ESC_1.5.10_20260325.apk](mobile-app/FLYROTOR_ESC_1.5.10_20260325.apk) | 1.5.7 | 3.3 MB | 2026-03-25 |
 
 ## RF Tuning Script / RF 调参脚本
 
@@ -70,6 +70,6 @@ flydragon-downloads/
 
 ---
 
-*Last updated / 最后更新: 2026-03-20*
+*Last updated / 最后更新: 2026-03-25*
 
 *Source / 数据来源: [flydragonrc.com/download](https://flydragonrc.com/download)*
