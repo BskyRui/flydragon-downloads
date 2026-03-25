@@ -18,7 +18,7 @@
 
 | File | Version | Size | Date |
 |------|---------|------|------|
-| [FLYROTOR_ESC_1.5.10_20260325.apk](mobile-app/FLYROTOR_ESC_1.5.10_20260325.apk) | 1.5.7 | 3.3 MB | 2026-03-25 |
+| [FLYROTOR_ESC_1.5.10_20260325.apk](mobile-app/FLYROTOR_ESC_1.5.10_20260325.apk) | 1.5.10 | 3.3 MB | 2026-03-25 |
 
 ## RF Tuning Script / RF 调参脚本
 
