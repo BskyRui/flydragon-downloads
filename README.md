@@ -18,7 +18,7 @@
 
 | File | Version | Size | Date |
 |------|---------|------|------|
-| [FLYROTOR_ESC_1.5.10_20260325.apk](mobile-app/FLYROTOR_ESC_1.5.10_20260325.apk) | 1.5.10 | 3.3 MB | 2026-03-25 |
+| [FLYROTOR_ESC_1.6.05_20260502.apk](mobile-app/FLYROTOR_ESC_1.6.05_20260502.apk) | 1.6.05 | 3.3 MB | 2026-05-02 |
 
 ## RF Tuning Script / RF 调参脚本
 
@@ -33,13 +33,13 @@
 
 | File | Version | Size | Date |
 |------|---------|------|------|
-| [FLYROTOR_ESC_HELI_3C_155A_1.1.7._20260308203151.ota](firmware/FLYROTOR_ESC_HELI_3C_155A_1.1.7._20260308203151.ota) | 1.1.7 | 58 KB | 2026-03-08 |
-| [FLYROTOR_ESC_HELI_3C_155A_1.1.7_20260308202946.fw](firmware/FLYROTOR_ESC_HELI_3C_155A_1.1.7_20260308202946.fw) | 1.1.7 | 48 KB | 2026-03-08 |
-| [FLYROTOR_ESC_HELI_3D_155A_1.1.7._20260308203120.ota](firmware/FLYROTOR_ESC_HELI_3D_155A_1.1.7._20260308203120.ota) | 1.1.7 | 58 KB | 2026-03-08 |
-| [FLYROTOR_ESC_HELI_3D_155A_1.1.7_20260308202856.fw](firmware/FLYROTOR_ESC_HELI_3D_155A_1.1.7_20260308202856.fw) | 1.1.7 | 48 KB | 2026-03-08 |
-| [FLYROTOR_ESC_HELI_3D_280A_1.1.7._20260308203044.ota](firmware/FLYROTOR_ESC_HELI_3D_280A_1.1.7._20260308203044.ota) | 1.1.7 | 58 KB | 2026-03-08 |
-| [FLYROTOR_ESC_HELI_3D_280A_1.1.7_20260308202802.fw](firmware/FLYROTOR_ESC_HELI_3D_280A_1.1.7_20260308202802.fw) | 1.1.7 | 48 KB | 2026-03-08 |
-| [文件类型说明.txt](firmware/文件类型说明.txt) | - | 33 B | 2026-03-02 |
+| [FLYROTOR_ESC_HELI_3C_155A_1.1.9._20260502153611.ota](firmware/FLYROTOR_ESC_HELI_3C_155A_1.1.9._20260502153611.ota) | 1.1.9 | 59.5 KB | 2026-05-02 |
+| [FLYROTOR_ESC_HELI_3C_155A_1.1.9_20260502153432.fw](firmware/FLYROTOR_ESC_HELI_3C_155A_1.1.9_20260502153432.fw) | 1.1.9 | 49.5 KB | 2026-05-02 |
+| [FLYROTOR_ESC_HELI_3D_155A_1.1.9._20260502153556.ota](firmware/FLYROTOR_ESC_HELI_3D_155A_1.1.9._20260502153556.ota) | 1.1.9 | 59.5 KB | 2026-05-02 |
+| [FLYROTOR_ESC_HELI_3D_155A_1.1.9_20260502153356.fw](firmware/FLYROTOR_ESC_HELI_3D_155A_1.1.9_20260502153356.fw) | 1.1.9 | 49.5 KB | 2026-05-02 |
+| [FLYROTOR_ESC_HELI_3D_280A_1.1.9._20260502153535.ota](firmware/FLYROTOR_ESC_HELI_3D_280A_1.1.9._20260502153535.ota) | 1.1.9 | 59.5 KB | 2026-05-02 |
+| [FLYROTOR_ESC_HELI_3D_280A_1.1.9_20260502153322.fw](firmware/FLYROTOR_ESC_HELI_3D_280A_1.1.9_20260502153322.fw) | 1.1.9 | 49.5 KB | 2026-05-02 |
+| [文件类型说明.txt](firmware/文件类型说明.txt) | - | 33 B | 2026-03-04 |
 
 > **Note / 说明**:
 > - `.fw` files are used for USB wired flashing / `.fw` 文件用于 USB 有线刷写
@@ -49,10 +49,12 @@
 
 | File | Version | Size | Date |
 |------|---------|------|------|
-| [FLYROTOR 155A F3C 电调说明书 v1.2](manual/FLYROTOR_155A_F3C_ESC_Manual_20260309_v1.2_CN.pdf) | 1.2 | 768.6 KB | 2026-03-09 |
-| [FLYROTOR 155A HV 电调说明书 v1.2](manual/FLYROTOR_155A_HV_ESC_Manual_20260309_v1.2_CN.pdf) | 1.2 | 768.4 KB | 2026-03-09 |
-| [FLYROTOR 280A HV 电调说明书 v1.2](manual/FLYROTOR_280A_HV_ESC_Manual_20260304_v1.2_CN.pdf) | 1.2 | 770.8 KB | 2026-03-09 |
-| [FLYROTOR 电调兼容 Futaba S.BUS2 遥测说明书 v1.1](manual/FLYROTOR_ESC_Futaba_SBUS2_Telemetry_Manual_20251230_v1.1_CN.pdf) | 1.1 | 73.7 KB | 2026-03-01 |
+| [FLYROTOR 300A PRO 电调说明书 20260525 v1.3_CN.pdf](manual/FLYROTOR_300A_PRO_电调说明书_20260525_v1.3_CN.pdf) | 1.3 | 892.1 KB | 2026-05-26 |
+| [FLYROTOR 280A HV ESC Manual 20260525 v1.3_EN.pdf](manual/FLYROTOR_280A_HV_ESC_Manual_20260525_v1.3_EN.pdf) | 1.3 | 517.6 KB | 2026-05-25 |
+| [FLYROTOR 电调兼容S.BUS2协议说明书 20260511 v1.2_CN.pdf](manual/FLYROTOR_电调兼容S.BUS2协议说明书_20260511_v1.2_CN.pdf) | 1.2 | 84.1 KB | 2026-05-11 |
+| [FLYROTOR 155A F3C 电调说明书 20260511 v1.3_CN.pdf](manual/FLYROTOR_155A_F3C_电调说明书_20260511_v1.3_CN.pdf) | 1.3 | 835.5 KB | 2026-05-11 |
+| [FLYROTOR 155A HV 电调说明书 20260511 v1.3_CN.pdf](manual/FLYROTOR_155A_HV_电调说明书_20260511_v1.3_CN.pdf) | 1.3 | 835.2 KB | 2026-05-11 |
+| [FLYROTOR 280A HV 电调说明书 20260511 v1.3_CN.pdf](manual/FLYROTOR_280A_HV_电调说明书_20260511_v1.3_CN.pdf) | 1.3 | 868.8 KB | 2026-05-11 |
 
 ---
 
@@ -70,6 +72,6 @@ flydragon-downloads/
 
 ---
 
-*Last updated / 最后更新: 2026-03-25*
+*Last updated / 最后更新: 2026-06-01*
 
 *Source / 数据来源: [flydragonrc.com/download](https://flydragonrc.com/download)*
